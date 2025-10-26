@@ -24,17 +24,12 @@
 
 ---
 
-### 🛠️ Мои навыки
+### ⚡ Навыки
 
-**Frontend**
-- HTML ![90%](https://progress-bar.dev/90)
-- CSS ![80%](https://progress-bar.dev/80)
-- JavaScript ![75%](https://progress-bar.dev/75)
-
-**Backend**
-- Node.js ![70%](https://progress-bar.dev/70)
-- Python ![85%](https://progress-bar.dev/85)
-
+![HTML](https://img.shields.io/badge/HTML-90%25-orange)
+![CSS](https://img.shields.io/badge/CSS-80%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow)
+![Python](https://img.shields.io/badge/Python-85%25-green)
 
 ---
 
