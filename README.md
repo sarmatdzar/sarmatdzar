@@ -31,13 +31,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow)
 ![Python](https://img.shields.io/badge/Python-85%25-green)
 
-### 🛠️ Навыки
-
-![HTML](https://skillicons.dev/icons?i=html) HTML       [█████████░] 90%  
-![CSS](https://skillicons.dev/icons?i=css) CSS        [████████░░] 80%  
-![JS](https://skillicons.dev/icons?i=js) JavaScript [███████░░░] 70%  
-![Python](https://skillicons.dev/icons?i=python) Python     [█████████░] 85%  
-
 ---
 
 ### 📊 Stats and trophies
