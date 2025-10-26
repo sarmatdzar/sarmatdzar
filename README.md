@@ -1,11 +1,6 @@
 <!-- Gradient banner (SVG) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarmatdzar/sarmatdzar/main/assets/banner.svg" alt="banner" />
-</p>
-
-<h1 align="center">Hi, I'm Sarmat Dzarakhokhov</h1>
-<p align="center">
-  I build things that are fast, clear, and crafted.
+  <img src="assets/github-header-banner.png" alt="banner" />
 </p>
 
 <!-- Quick links -->
@@ -15,26 +10,9 @@
   <a href="https://twitter.com/sarmatdzar">X/Twitter</a>
 </p>
 
-### Skill Radar
-
+<!-- Tech icons -->
 <p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'radar',
-    data:{
-      labels:['HTML','CSS','JavaScript','PHP','MySQL','Linux','Node.js','Python'],
-      datasets:[{
-        label:'Skill level',
-        data:[95,90,85,70,80,75,85,80],
-        backgroundColor:'rgba(124,77,255,0.3)',
-        borderColor:'#7C4DFF',
-        pointBackgroundColor:'#18FFFF'
-      }]
-    },
-    options:{
-      scales:{r:{angleLines:{color:'#444'},grid:{color:'#333'},pointLabels:{color:'#eee'}}},
-      plugins:{legend:{labels:{color:'#eee'}}}
-    }
-  }" alt="skill radar chart" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,go,docker,kubernetes,aws,postgres,redis" />
 </p>
 
 ---
