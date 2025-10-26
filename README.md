@@ -35,16 +35,6 @@
 
 ---
 
-### ✅ Status badges
-<p>
-  <img src="https://img.shields.io/badge/build-passing-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/coverage-94%25-2962FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/releases-auto-FF6D00?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=sarmatdzar&color=blue&style=for-the-badge" />
-</p>
-
----
-
 ### 📬 Contact
 - **Email:** sarmatdzarachochow@gmail.com
 - **Meetups:** Warsaw
