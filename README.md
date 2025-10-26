@@ -17,15 +17,6 @@
 
 ---
 
-### ⚡ Skills
-
-![HTML](https://img.shields.io/badge/HTML-90%25-orange)
-![CSS](https://img.shields.io/badge/CSS-80%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow)
-![Python](https://img.shields.io/badge/Python-85%25-green)
-
----
-
 ### 📊 Stats and trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarmatdzar&show_icons=true&theme=radical" height="165" />
