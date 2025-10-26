@@ -59,6 +59,9 @@
   <img src="https://img.shields.io/badge/releases-auto-FF6D00?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=sarmatdzar&color=blue&style=for-the-badge" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sarmatdzar/sarmatdzar/main/assets/commits-week.svg" />
+</p>
 
 ---
 
