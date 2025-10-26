@@ -14,56 +14,53 @@
   <a href="https://twitter.com/sarmatdzar">X/Twitter</a>
 </p>
 
-<!-- Tech icons -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,linux,nodejs,python" />
-</p>
-
 ---
 
-### About me
-- **Focus:** high-performance interfaces, DX, clarity
-- **Tools:** TypeScript, Go, Rust, Edge-runtime, WASM
-- **Now:** building a design system and code generators
+### Tech stack & skill level
 
----
-
-### Stats and trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarmatdzar&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarmatdzar&layout=compact&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarmatdzar&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarmatdzar&theme=onedark&column=6" />
-</p>
-
----
-
-### Projects
-- **Flagship:** [awesome-project](https://github.com/sarmatdzar/awesome-project) — UI generator with live preview
-- **Tooling:** [perf-tracer](https://github.com/sarmatdzar/perf-tracer) — lightweight frontend profiler
-- **Playground:** [tiny-ml](https://github.com/sarmatdzar/tiny-ml) — browser inference
-
----
-
-### Status badges
-<p>
-  <img src="https://img.shields.io/badge/build-passing-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/coverage-94%25-2962FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/releases-auto-FF6D00?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=sarmatdzar&color=blue&style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sarmatdzar/sarmatdzar/main/assets/commits-week.svg" />
-</p>
-
----
-
-### Contact
-- **Email:** hi@sarmatdzar.github.io
-- **Meetups:** Warsaw, frontend/perf
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="48" /><br/>
+      <b>HTML</b><br/>
+      <img src="https://progress-bar.dev/95/?title=expert&width=100&color=7C4DFF" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="48" /><br/>
+      <b>CSS</b><br/>
+      <img src="https://progress-bar.dev/90/?title=advanced&width=100&color=18FFFF" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="48" /><br/>
+      <b>JavaScript</b><br/>
+      <img src="https://progress-bar.dev/85/?title=advanced&width=100&color=FF4081" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=php" width="48" /><br/>
+      <b>PHP</b><br/>
+      <img src="https://progress-bar.dev/70/?title=solid&width=100&color=FF6D00" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" /><br/>
+      <b>MySQL</b><br/>
+      <img src="https://progress-bar.dev/80/?title=advanced&width=100&color=2962FF" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" /><br/>
+      <b>Linux</b><br/>
+      <img src="https://progress-bar.dev/75/?title=solid&width=100&color=00C853" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br/>
+      <b>Node.js</b><br/>
+      <img src="https://progress-bar.dev/85/?title=advanced&width=100&color=FFD600" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="48" /><br/>
+      <b>Python</b><br/>
+      <img src="https://progress-bar.dev/80/?title=advanced&width=100&color=00ACC1" />
+    </td>
+  </tr>
+</table>
