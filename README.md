@@ -10,6 +10,7 @@
   <a href="https://twitter.com/sarmatdzar">🐦 X/Twitter</a>
 </p>
 
+
 <!-- Tech icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,go,docker,kubernetes,aws,postgres,redis,rust" />
