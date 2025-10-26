@@ -16,7 +16,7 @@
 
 <!-- Tech icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,go,docker,kubernetes,aws,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,sql,linux,nodejs,python" />
 </p>
 
 ---
