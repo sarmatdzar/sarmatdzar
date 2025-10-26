@@ -3,17 +3,9 @@
   <img src="assets/github-header-banner.png" alt="banner" />
 </p>
 
-<!-- Quick links -->
-<p align="center">
-  <a href="https://sarmatdzar.github.io">🌐 Website</a> •
-  <a href="https://linkedin.com/in/sarmatdzar">💼 LinkedIn</a> •
-  <a href="https://twitter.com/sarmatdzar">🐦 X/Twitter</a>
-</p>
-
-
 <!-- Tech icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,go,docker,kubernetes,aws,postgres,redis,rust" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs,npm,python" />
 </p>
 
 ---
@@ -25,7 +17,7 @@
 
 ---
 
-### ⚡ Навыки
+### ⚡ Skills
 
 ![HTML](https://img.shields.io/badge/HTML-90%25-orange)
 ![CSS](https://img.shields.io/badge/CSS-80%25-blue)
