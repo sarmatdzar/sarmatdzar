@@ -24,15 +24,17 @@
 
 ---
 
-### 🧩 Skills
+### 🛠️ Мои навыки
 
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&lineCount=3&theme=radical&line1=typescript,TypeScript,95;react,React,95;nextdotjs,Next.js,90" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&lineCount=3&theme=radical&line1=node.js,Node.js,90;go,Go,80;rust,Rust,75" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=DevOps&lineCount=3&theme=radical&line1=docker,Docker,85;kubernetes,Kubernetes,80;aws,AWS,80" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Databases&lineCount=2&theme=radical&line1=postgresql,Postgres,88;redis,Redis,85" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Other&lineCount=1&theme=radical&line1=python,Python(ML),70" />
-</p>
+**Frontend**
+- HTML ![90%](https://progress-bar.dev/90)
+- CSS ![80%](https://progress-bar.dev/80)
+- JavaScript ![75%](https://progress-bar.dev/75)
+
+**Backend**
+- Node.js ![70%](https://progress-bar.dev/70)
+- Python ![85%](https://progress-bar.dev/85)
+
 
 ---
 
