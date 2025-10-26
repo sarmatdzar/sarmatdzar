@@ -27,16 +27,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarmatdzar&theme=radical" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarmatdzar&theme=onedark&column=6" />
-</p>
 
 ---
 
 ### 🛠 Projects
-- **Flagship:** [awesome-project](https://github.com/sarmatdzar/awesome-project) — UI generator with live preview  
-- **Tooling:** [perf-tracer](https://github.com/sarmatdzar/perf-tracer) — lightweight frontend profiler  
-- **Playground:** [tiny-ml](https://github.com/sarmatdzar/tiny-ml) — browser inference  
+
 
 ---
 
