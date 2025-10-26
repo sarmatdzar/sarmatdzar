@@ -3,7 +3,6 @@
   <img src="assets/github-header-banner.png" alt="banner" />
 </p>
 
-<h1 align="center">Hi, I'm Sarmat Dzarakhokhov</h1>
 <p align="center">
   I build things that are fast, clear, and crafted.
 </p>
