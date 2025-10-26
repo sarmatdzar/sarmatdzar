@@ -68,5 +68,5 @@
 ---
 
 ### 📬 Contact
-- **Email:** hi@sarmatdzar.github.io  
-- **Meetups:** Warsaw, frontend/perf  
+- **Email:** sarmatdzarachochow@gmail.com
+- **Meetups:** Warsaw
