@@ -16,7 +16,7 @@
 
 <!-- Tech icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,sql,linux,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,linux,nodejs,python" />
 </p>
 
 ---
