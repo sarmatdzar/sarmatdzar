@@ -25,18 +25,15 @@
 ---
 
 ### 🚀 Skills & Proficiency
-<p align="center">
-  
-| Discipline | Level |
-|------------|-------|
-| **TypeScript / React / Next.js** | ![95%](https://progress-bar.dev/95/?title=expert) |
-| **Node.js / Backend** | ![90%](https://progress-bar.dev/90/?title=advanced) |
-| **Go / Rust** | ![80%](https://progress-bar.dev/80/?title=strong) |
-| **Python / ML basics** | ![70%](https://progress-bar.dev/70/?title=solid) |
-| **Docker / Kubernetes / AWS** | ![85%](https://progress-bar.dev/85/?title=proficient) |
-| **Databases (Postgres, Redis)** | ![88%](https://progress-bar.dev/88/?title=advanced) |
+### 🧩 Skills
 
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&lineCount=2&theme=radical&line1=typescript,typescript,95;react,react,95;nextdotjs,next.js,90" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&lineCount=2&theme=radical&line1=node.js,node.js,90;go,go,80;rust,rust,75" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=DevOps&lineCount=2&theme=radical&line1=docker,docker,85;kubernetes,kubernetes,80;aws,aws,80" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Databases&lineCount=2&theme=radical&line1=postgresql,postgresql,88;redis,redis,85" />
 </p>
+
 
 ---
 
