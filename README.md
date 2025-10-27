@@ -31,7 +31,7 @@
 ---
 
 ### 🛠 Projects
-
+🎰 ![Rust-Themed Casino Wheel]([images/category_price_availability.png](https://github.com/sarmatdzar/rust-roulette)) 27.10.2025
 
 ---
 
