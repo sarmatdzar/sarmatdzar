@@ -10,12 +10,6 @@
 
 ---
 
-### 👨‍💻 About me
-- **Focus:** high-performance interfaces, DX, clarity  
-- **Tools:** TypeScript, Go, Rust, Edge-runtime, WASM  
-- **Now:** building a design system and code generators  
-
----
 
 ### 📊 Stats and trophies
   <img src="https://github-readme-stats.vercel.app/api?username=sarmatdzar&show_icons=true&theme=radical" height="165" />
